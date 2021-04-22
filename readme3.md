@@ -1,3 +1,3 @@
 # first title
 
-lear git and github from zero to hero
+lear git and github for the worst branch
